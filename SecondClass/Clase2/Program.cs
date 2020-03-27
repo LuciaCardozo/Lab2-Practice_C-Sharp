@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Pido al usuario que ingrese 10 numeros, valido y muestro el por pantalla(minimo, maximo y promedio)
+//Pido al usuario que ingrese 10 numeros, valido y muestro por pantalla(minimo, maximo y promedio)
 namespace Clase2
 {
     class Program
