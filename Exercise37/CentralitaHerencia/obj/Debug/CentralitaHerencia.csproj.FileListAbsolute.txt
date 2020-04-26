@@ -1,0 +1,5 @@
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Lucia\source\repos\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

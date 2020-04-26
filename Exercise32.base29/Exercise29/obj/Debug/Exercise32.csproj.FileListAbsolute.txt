@@ -1,0 +1,6 @@
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\bin\Debug\Exercise29.exe.config
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\bin\Debug\Exercise29.exe
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\bin\Debug\Exercise29.pdb
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\obj\Debug\Exercise32.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\obj\Debug\Exercise29.exe
+C:\Users\Lucia\source\repos\Exercise29 - copia\Exercise29\obj\Debug\Exercise29.pdb

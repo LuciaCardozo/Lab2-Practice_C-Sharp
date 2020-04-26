@@ -4,3 +4,9 @@ C:\Users\Lucia\source\repos\Clase2\Clase2\bin\Debug\Clase2.pdb
 C:\Users\Lucia\source\repos\Clase2\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
 C:\Users\Lucia\source\repos\Clase2\Clase2\obj\Debug\Clase2.exe
 C:\Users\Lucia\source\repos\Clase2\Clase2\obj\Debug\Clase2.pdb
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\bin\Debug\Clase2.exe
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\obj\Debug\Clase2.exe
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\SecondClass\Clase2\obj\Debug\Clase2.pdb
